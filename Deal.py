@@ -1,0 +1,1 @@
+"Will be a Deal class"
